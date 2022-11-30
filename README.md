@@ -8,7 +8,7 @@
 - The user inputs required to be filled at a terminal include Manager’s name, employee ID, email address, and office number followed by an engineer’s or an intern’s similar information with prompts to prompts to enter the engineer’s name, ID, email, and GitHub username and intern’s ID, email, and school.
 - At the end of adding each personnel’s contact information, the user is taken back to the menu for adding or finishing the team member list.
 - Up on exit an HTML file is generated with the team member profile. 
-- The application includes Employee, Manager, Engineer, and Intern classes. The tests for these classes (in the _tests_ directory) must ALL pass. Validation checks are added to ensure that user input is in the proper format.
+- The application includes tests for Employee, Manager, Engineer, and Intern classes. The tests for these classes (in the _tests_ directory) must all pass. Validation checks are added to ensure that user input is in the proper format.
 
 
 
