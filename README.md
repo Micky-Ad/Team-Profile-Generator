@@ -20,7 +20,8 @@
 
 # Screenshot:
 ----------------------------------------------------------------------
- (./assets/images/Sample _Screenshot.PNG)
+### [Screenshot](https://drive.google.com/drive/u/0/my-drive)
+
 
 # Built with
 -----------------------------------------------------------------------
