@@ -21,7 +21,7 @@
 # Screenshot:
 ----------------------------------------------------------------------
 
- ![alt text](./assets/images/Sample _Screenshot.PNG)
+ ![alt text](assets/images/Sample _Screenshot.PNG)
 
 
 
