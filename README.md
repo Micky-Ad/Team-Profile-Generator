@@ -1,6 +1,6 @@
 # Team Profile Generator
 
-### An application to generate an HTML file for Team Profile using node command inputs. 
+- An application to generate an HTML file for Team Profile using node command inputs. 
 ----------------------------------------------------------------------
 
 # Usage:
