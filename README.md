@@ -20,7 +20,7 @@
 
 # Screenshot:
 ----------------------------------------------------------------------
-[Screenshot](.assets/images/Sample_Screenshot.png)
+[Screenshot](https://github.com/Micky-Ad/Team-Profile-Generator/blob/main/assets/images/Sample%20_Screenshot.PNG)
 
 
 # Built with
