@@ -20,7 +20,7 @@
 
 # Screenshot:
 ----------------------------------------------------------------------
- ![Screenshot](Team-Profile-Generator/assets/images/Sample _Screenshot.PNG)
+ (./assets/images/Sample _Screenshot.PNG)
 
 # Built with
 -----------------------------------------------------------------------
