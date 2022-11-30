@@ -20,7 +20,7 @@
 
 # Screenshot:
 ----------------------------------------------------------------------
-### [Screenshot](./images/Sample_Screenshot.PNG)
+[Screenshot](.assets/images/Sample_Screenshot.png)
 
 
 # Built with
